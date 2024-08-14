@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Necolizer.github.io/sitemap.xml
+Sitemap: https://necolizer.github.io/sitemap.xml
