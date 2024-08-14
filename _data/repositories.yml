@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - Necolizer
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - zylye123/CARes-UNet
+  - Necolizer/Facial-Prior-Based-FOMM
+  - Necolizer/Rabbit-In-Outerland-RPG
+  - sysu19351158/FPB-FOMM
+  - Necolizer/Anomaly-Detection-Using-KolektorSDD-Dataset
+  - Necolizer/ISTA-Net
+  - Necolizer/RM-PRT
+  - liujf69/IPP-Net-Parsing
+  - liujf69/EPP-Net-Action
+  - Necolizer/subwayMap
