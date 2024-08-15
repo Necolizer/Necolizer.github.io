@@ -13,7 +13,8 @@
   color: "#2C8DF7"
   
 "IROS":
-  url: https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
+  url: >-
+    https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
   color: "#1F7A6E"
 
 "CICAI":
@@ -21,5 +22,6 @@
   color: "#1A63AA"
 
 "TIP":
-  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
+  url: >-
+    https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
   color: "#DDA0DD"
