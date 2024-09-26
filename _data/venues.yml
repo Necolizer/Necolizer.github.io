@@ -1,13 +1,3 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
-
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
-
 "ACM MM":
   url: https://dl.acm.org/conference/mm
   color: "#2C8DF7"
@@ -17,11 +7,11 @@
     https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros
   color: "#1F7A6E"
 
-"CICAI":
-  url: https://link.springer.com/conference/cicai
-  color: "#1A63AA"
-
 "TIP":
   url: >-
     https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
   color: "#DDA0DD"
+
+"NeurIPS":
+  url: https://nips.cc/
+  color: "bdb5e1"
