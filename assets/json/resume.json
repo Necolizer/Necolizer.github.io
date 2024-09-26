@@ -54,7 +54,7 @@
         "Led and played a key role in every aspect of the project, including method design, coding, conducting experiments, result analysis and manuscript writing.",
         "Proposed a model based on entity rearrangement and token attention, achieving SOTA performance across 4 benchmarks.",
         "Enabled the single-entity backbones (e.g., CTR-GCN) to achieve SOTA performance on 6 multi-entity action benchmarks in subsequent research.",
-        "Published this work in the IROS 2023 conference proceedings, with subsequent research currently under review for NeurIPS 2024."
+        "Published this work in IROS 2023, with subsequent research published in NeurIPS 2024."
       ],
       "startDate": "2023-01",
       "endDate": "current",
@@ -70,47 +70,16 @@
       "startDate": "2023-05",
       "endDate": "2023-09",
       "url": ""
-    },
-    {
-      "name": "Action Recognition by Integrating Human Parsing Modality and Body Pose",
-      "summary": "This project was the first to explore leveraging complementary information from human parsing and body pose to achieve superior recognition performance.",
-      "highlights": [
-        "Developed and refined the multimodal fusion framework, enhancing the integration of human parsing and pose data.",
-        "Assisted in conducting experiments and contributed to manuscript writing.",
-        "Published this work in the CICAI 2024 conference proceedings, with subsequent research published in CAAI Transactions on Intelligence Technology."
-      ],
-      "startDate": "2023-05",
-      "endDate": "2023-09",
-      "url": ""
-    },
-    {
-      "name": "Facial Prior Guided Micro-Expression Generation",
-      "summary": "This project aimed to generate realistic micro-expression video clips. We incorporated action units, a facial prior in psychology, into the first-order motion model to achieve realistic generated micro-expressions.",
-      "highlights": [
-        "Participated in the development of the proposed models, including data preprocessing, method design, and implementation.",
-        "Designed and ran experiments across 3 datasets, conducting ablation studies.",
-        "Achieved first place with a score of 316 in the ACMMM 2021 FME Challenge.",
-        "Participated in the subsequent research on learnable facial prior combinations, objective evaluation metrics, etc.",
-        "Published the challenge solution in the ACMMM 2021 conference proceedings, with subsequent research published in IEEE Transactions on Image Processing."
-      ],
-      "startDate": "2021-05",
-      "endDate": "2023-10",
-      "url": ""
-    },
-    {
-      "name": "Semi-Supervised Learning-Based Computer-Aided Diagnosis for COVID-19",
-      "summary": "This project focused on lesion segmentation in COVID-19 CT images using semi-supervised learning, proposing CARes-UNet and semi-CARes-UNet to achieve SOTA performance on 3 benchmarks.",
-      "highlights": [
-        "Builded the semi-supervised learning framework to leverage large-scale unlabeled CT data with pseudo-labeling.",
-        "Led the Writing and revision of the manuscript during the whole review process.",
-        "Published this work in Medical Physics."
-      ],
-      "startDate": "2020-05",
-      "endDate": "2021-09",
-      "url": ""
     }
   ],
   "publications": [
+    {
+      "name": "CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition",
+      "publisher": "Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS)",
+      "releaseDate": "2024",
+      "url": "",
+      "summary": ""
+    },
     {
       "name": "Facial Prior Guided Micro-Expression Generation",
       "publisher": "IEEE Transactions on Image Processing",
@@ -138,37 +107,28 @@
       "releaseDate": "2021",
       "url": "https://dl.acm.org/doi/10.1145/3474085.3479211",
       "summary": ""
-    },
-    {
-      "name": "CARes-UNet: Content-aware residual UNet for lesion segmentation of COVID-19 from chest CT images",
-      "publisher": "Medical Physics",
-      "releaseDate": "2021",
-      "url": "https://aapm.onlinelibrary.wiley.com/doi/10.1002/mp.15231",
-      "summary": ""
     }
   ],
   "work": [
     {
       "name": "Sony (China) Ltd.",
-      "position": "Deep Learning Intern",
+      "position": "Deep Learning Intern (Sony R&D Center)",
       "url": "https://www.sony.com/en/SonyInfo/research/about/china-laboratory/",
       "startDate": "2024-07",
-      "endDate": "current",
+      "endDate": "2024-09",
       "summary": "",
       "highlights": [
-        "Worked at the Sony R&D Center, under the mentorship of Dr. Songtao Wu.",
         "Assisted in developing deep learning models on human action analysis, based on skeletal data and RGB-D videos."
       ]
     },
     {
       "name": "Hangzhou Lingxi Robot Intelligent Technology Co., Ltd. (LINX ROBOT)",
-      "position": "Algorithm Development Intern",
+      "position": "Algorithm Development Intern (Team Leader)",
       "url": "http://www.linx-robot.com/",
       "startDate": "2022-10",
       "endDate": "2022-12",
       "summary": "",
       "highlights": [
-        "Led a team of interns in the development of computer vision projects, serving as the team leader.",
         "Completed a defect detection project utilizing few-shot learning, involving the review of 40+ research papers, archiving 16 open-source datasets, and successfully reproducing 4 key methods.",
         "Completed an image matching and retrieval project, collecting and annotating over 400 images, and fine-tuning DELF and CGD methods, resulting in a 10% increase in top-1 accuracy."
       ]
