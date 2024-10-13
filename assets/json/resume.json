@@ -41,7 +41,7 @@
       "area": "",
       "studyType": "B.Eng.",
       "startDate": "2019-09",
-      "endDate": "2023-08",
+      "endDate": "2023-06",
       "score": "",
       "courses": []
     }
@@ -77,7 +77,7 @@
       "name": "CHASE: Learning Convex Hull Adaptive Shift for Skeleton-based Multi-Entity Action Recognition",
       "publisher": "Thirty-eighth Conference on Neural Information Processing Systems (NeurIPS)",
       "releaseDate": "2024",
-      "url": "",
+      "url": "https://arxiv.org/abs/2410.07153",
       "summary": ""
     },
     {
@@ -85,13 +85,6 @@
       "publisher": "IEEE Transactions on Image Processing",
       "releaseDate": "2024",
       "url": "https://ieeexplore.ieee.org/document/10375342",
-      "summary": ""
-    },
-    {
-      "name": "Explore Human Parsing Modality for Action Recognition",
-      "publisher": "CAAI Transactions on Intelligence Technology",
-      "releaseDate": "2024",
-      "url": "http://doi.org/10.1049/cit2.12366",
       "summary": ""
     },
     {
@@ -117,9 +110,7 @@
       "startDate": "2024-07",
       "endDate": "2024-09",
       "summary": "",
-      "highlights": [
-        "Assisted in developing deep learning models on human action analysis, based on skeletal data and RGB-D videos."
-      ]
+      "highlights": ["Assisted in developing deep learning models on human action analysis, based on skeletal data and RGB-D videos."]
     },
     {
       "name": "Hangzhou Lingxi Robot Intelligent Technology Co., Ltd. (LINX ROBOT)",
