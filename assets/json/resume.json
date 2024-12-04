@@ -28,7 +28,7 @@
       "location": "Guangdong, China",
       "url": "",
       "area": "",
-      "studyType": "M.Sc.",
+      "studyType": "Master of Philosophy",
       "startDate": "2023-09",
       "endDate": "current",
       "score": "",
@@ -39,7 +39,7 @@
       "location": "Guangdong, China",
       "url": "",
       "area": "",
-      "studyType": "B.Eng.",
+      "studyType": "Bachelor of Engineering",
       "startDate": "2019-09",
       "endDate": "2023-06",
       "score": "",
@@ -48,7 +48,7 @@
   ],
   "projects": [
     {
-      "name": "Skeleton-based Interaction Recognition",
+      "name": "Learning Skeletal Multi-Entity Interactions",
       "summary": "This project aimed to recognize and understand interactions involving multiple entities—such as human bodies, hands, objects, or other elements within a scene. Our goal was to unify the recognition tasks of person-peron, hand-hand, hand-object interactions, and even group activities.",
       "highlights": [
         "Led and played a key role in every aspect of the project, including method design, coding, conducting experiments, result analysis and manuscript writing.",
@@ -61,7 +61,7 @@
       "url": ""
     },
     {
-      "name": "Progressive Reasoning with World Models for Robotic Manipulation",
+      "name": "Vision-Language-Action Models for Robotic Manipulation",
       "summary": "This project built a robot manipulation simulator based on UE5, which can automatically generate robot manipulation demonstration data containing complex language instructions. With this simulator, we created a robot manipulation benchmark with progressive inference tasks, and proposed a world model-based robot manipulation method.",
       "highlights": [
         "Reviewed recent works related to robotic manipulation and deployed 3+ multimodal models (e.g., BC-Z, RT-1) using PyTorch.",
@@ -148,7 +148,7 @@
       "name": "Programming",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "C/C++", "C#"]
+      "keywords": ["Python", "C++", "C#"]
     },
     {
       "name": "Deep Learning",
