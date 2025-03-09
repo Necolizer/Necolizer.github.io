@@ -28,7 +28,7 @@
       "location": "Guangdong, China",
       "url": "",
       "area": "",
-      "studyType": "Master of Philosophy",
+      "studyType": "MPhil",
       "startDate": "2023-09",
       "endDate": "current",
       "score": "",
@@ -39,7 +39,7 @@
       "location": "Guangdong, China",
       "url": "",
       "area": "",
-      "studyType": "Bachelor of Engineering",
+      "studyType": "BEng",
       "startDate": "2019-09",
       "endDate": "2023-06",
       "score": "",
@@ -104,6 +104,15 @@
   ],
   "work": [
     {
+      "name": "Moonshot AI",
+      "position": "Intern",
+      "url": "https://www.moonshot.cn/",
+      "startDate": "2025-02",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": [""]
+    },
+    {
       "name": "Sony (China) Ltd.",
       "position": "Deep Learning Intern (Sony R&D Center)",
       "url": "https://www.sony.com/en/SonyInfo/research/about/china-laboratory/",
@@ -111,18 +120,6 @@
       "endDate": "2024-09",
       "summary": "",
       "highlights": ["Assisted in developing deep learning models on human action analysis, based on skeletal data and RGB-D videos."]
-    },
-    {
-      "name": "Hangzhou Lingxi Robot Intelligent Technology Co., Ltd. (LINX ROBOT)",
-      "position": "Algorithm Development Intern (Team Leader)",
-      "url": "http://www.linx-robot.com/",
-      "startDate": "2022-10",
-      "endDate": "2022-12",
-      "summary": "",
-      "highlights": [
-        "Completed a defect detection project utilizing few-shot learning, involving the review of 40+ research papers, archiving 16 open-source datasets, and successfully reproducing 4 key methods.",
-        "Completed an image matching and retrieval project, collecting and annotating over 400 images, and fine-tuning DELF and CGD methods, resulting in a 10% increase in top-1 accuracy."
-      ]
     }
   ],
   "volunteer": [],
