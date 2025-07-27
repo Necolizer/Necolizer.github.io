@@ -15,3 +15,8 @@
 "NeurIPS":
   url: https://nips.cc/
   color: "bdb5e1"
+
+"TNNLS":
+  url: >-
+    https://cis.ieee.org/publications/t-neural-networks-and-learning-systems
+  color: "#FFB6C1"
