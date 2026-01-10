@@ -17,21 +17,27 @@ social: true # includes social icons at the bottom of the page
 
 <h3><strong>ABOUT ME</strong></h3>
 
-I'm currently a Master's student at Sun Yat-sen University, supervised by <a href='https://scholar.google.com/citations?user=woX_4AcAAAAJ'>Prof. Mengyuan Liu</a> and <a href='https://www.semanticscholar.org/author/Beichen-Ding/47695170'>Prof. Beichen Ding</a>. Previously I was an intern at <a href='https://ai.quark.cn/'>Alibaba QuarkLLM</a> and <a href='https://www.moonshot.cn/'>Moonshot AI</a> RL Team. I received my BEng degree from Sun Yat-sen University in 2023.
-
-My research interests recently focus on Agentic RL and RL Post-Training. I'm also exploring Self-Play training for agents with RLVR. Previously I was working on Vision-Language-Action Models and Machine Vision.
+I'm a Master's student at Sun Yat-sen University, and currently an intern at RedNote (Xiaohongshu) Hi Lab. Previously, I gained industry experience at Qwen Large Model Application Team and Moonshot AI. I will be joining RedNote Hi Lab to work on LLM Post-training after graduation in 2026. My research focuses on <b>Agentic RL</b> and <b>RL Post-Training</b>. I am particularly interested in exploring deep research agents.
 
 <h3><strong>EDUCATION</strong></h3>
 
-- Master's, Sun Yat-sen University, 2023 - Present
-- BEng, Sun Yat-sen University, 2019 - 2023
+<ul>
+  <li><strong>Sun Yat-sen University</strong>, Master's, 2023 - 2026 (Expected)</li>
+  <li><strong>Sun Yat-sen University</strong>, BEng, 2019 - 2023</li>
+</ul>
 
-<h3><strong>WORK EXPERIENCE</strong></h3>
-- Intern at Alibaba QuarkLLM
-- Intern at Moonshot AI, RL Team
+<h3><strong>EXPERIENCE</strong></h3>
+
+<ul>
+  <li><strong>RedNote (Xiaohongshu) Hi Lab</strong>, Research Intern</li>
+  <li><strong>Qwen Large Model Application Team</strong> (previously Alibaba QuarkLLM), Research Intern</li>
+  <li><strong>Moonshot AI</strong>, RL Team, Research Intern</li>
+</ul>
 
 <h3><strong>ACADEMIC SERVICE</strong></h3>
 
-- Reviewer for ACM MM'25, NeurIPS'25
+<ul>
+  <li><strong>Reviewer:</strong> NeurIPS 2025, ACM Multimedia 2025</li>
+</ul>
 
 ---
