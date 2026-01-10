@@ -7,7 +7,7 @@ github_repos:
   - zylye123/CARes-UNet
   - Necolizer/Facial-Prior-Based-FOMM
   - Necolizer/Rabbit-In-Outerland-RPG
-  - sysu19351158/FPB-FOMM
+  - Oleki-xxh/FPB-FOMM
   - Necolizer/Anomaly-Detection-Using-KolektorSDD-Dataset
   - Necolizer/ISTA-Net
   - pzhren/Surfer
@@ -20,3 +20,4 @@ github_repos:
   - Necolizer/osworld-supp
   - Necolizer/awesome-rl-for-agents
   - Alibaba-Quark/SSP
+  - Qwen-Applications/SSP
