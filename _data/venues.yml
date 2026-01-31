@@ -16,6 +16,10 @@
   url: https://nips.cc/
   color: "bdb5e1"
 
+"ICLR":
+  url: https://iclr.cc/
+  color: "#FF6F61"
+
 "TNNLS":
   url: >-
     https://cis.ieee.org/publications/t-neural-networks-and-learning-systems
