@@ -37,7 +37,7 @@ I'm a Master's student at Sun Yat-sen University, and currently an intern at Red
 <h3><strong>ACADEMIC SERVICE</strong></h3>
 
 <ul>
-  <li><strong>Reviewer:</strong> NeurIPS 2025, ACM Multimedia 2025</li>
+  <li><strong>Reviewer:</strong> NeurIPS 2025, ACM Multimedia 2025 & 2026</li>
 </ul>
 
 ---
