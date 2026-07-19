@@ -17,19 +17,19 @@ social: true # includes social icons at the bottom of the page
 
 <h3><strong>ABOUT ME</strong></h3>
 
-I'm a Master's student at Sun Yat-sen University, and currently an intern at RedNote (Xiaohongshu) Hi Lab. Previously, I gained industry experience at Qwen Large Model Application Team and Moonshot AI. I will be joining RedNote Hi Lab to work on LLM Post-training after graduation in 2026. My research focuses on <b>Agentic RL</b> and <b>RL Post-Training</b>. I am particularly interested in exploring deep research agents.
+I'm an LLM Post-Training Engineer at RedNote (Xiaohongshu) Dots. Previously, I obtained my Master's degree at Sun Yat-sen University, and gained industry experience at Qwen Large Model Application Team and Moonshot AI. My research focuses on <b>Agentic RL</b> and <b>RL Post-Training</b>. I am particularly interested in exploring CLI agents.
 
 <h3><strong>EDUCATION</strong></h3>
 
 <ul>
-  <li><strong>Sun Yat-sen University</strong>, Master's, 2023 - 2026 (Expected)</li>
+  <li><strong>Sun Yat-sen University</strong>, Master's, 2023 - 2026</li>
   <li><strong>Sun Yat-sen University</strong>, BEng, 2019 - 2023</li>
 </ul>
 
 <h3><strong>EXPERIENCE</strong></h3>
 
 <ul>
-  <li><strong>RedNote (Xiaohongshu) Hi Lab</strong>, Research Intern</li>
+  <li><strong>RedNote (Xiaohongshu) Hi Lab</strong>, LLM Post-Training Engineer</li>
   <li><strong>Qwen Large Model Application Team</strong> (previously Alibaba QuarkLLM), Research Intern</li>
   <li><strong>Moonshot AI</strong>, RL Team, Research Intern</li>
 </ul>
